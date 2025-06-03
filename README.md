@@ -17,3 +17,13 @@ Daily-Sysadmin/
 ├── security/           # Catatan terkait keamanan, hardening, firewall, dsb.
 ├── tools/              # Referensi dan konfigurasi alat bantu (htop, netdata, dll)
 └── README.md           # Dokumen ini
+```
+## 🚀 Tujuan
+
+1. Menjadi referensi cepat untuk pekerjaan sehari-hari
+
+2. Mencatat solusi dari masalah yang sudah pernah dihadapi
+
+3. Membagikan praktik terbaik dan pembelajaran dari pengalaman langsung
+
+4. Mendokumentasikan skrip otomatisasi atau konfigurasi penting
