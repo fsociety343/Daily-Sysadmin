@@ -6,7 +6,7 @@ Catatan harian seorang sysadmin — dokumentasi tugas, skrip, solusi troubleshoo
 
 Repositori ini berisi dokumentasi pribadi yang dikurasi dari pengalaman sehari-hari sebagai system administrator. Harapannya, catatan ini bisa berguna tidak hanya untuk diri sendiri, tetapi juga bagi sesama sysadmin atau siapa pun yang tertarik dengan dunia administrasi sistem, jaringan, dan infrastruktur IT.
 
-## 📂 Struktur Direktori
+## 📂 Sub Direktori
 
 ```bash
 Daily-Sysadmin/
@@ -27,3 +27,11 @@ Daily-Sysadmin/
 3. Membagikan praktik terbaik dan pembelajaran dari pengalaman langsung
 
 4. Mendokumentasikan skrip otomatisasi atau konfigurasi penting
+
+## 🧠 Catatan
+
+Beberapa konten di sini bersifat opini atau preferensi pribadi, tergantung pada konteks infrastruktur yang sedang digunakan. Gunakan dengan penyesuaian sesuai kebutuhanmu.
+
+## 🤝 Kontribusi
+
+Saat ini repositori ini bersifat pribadi, namun masukan dan saran sangat diterima. Jika kamu ingin berdiskusi atau berbagi pengalaman, silakan buat issue atau hubungi langsung melalui profil GitHub saya.
