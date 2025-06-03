@@ -1,6 +1,4 @@
-# Daily Sysadmin
-
-Ini adalah Task harianku sebagai sysadmin 😀
+# Script Daily Sysadmin - Linux
 
 ## Cek kapasitas penggunaan disk terbanyak
 
