@@ -61,3 +61,9 @@ echo "$ALL_BACKUPS" | while read -r FILE; do
     echo "-----------------------------"
 done
 ```
+
+## Mencari Nama File
+
+```bash
+find / -type f -name "vzdump-qemu*" 2>/dev/null
+```
