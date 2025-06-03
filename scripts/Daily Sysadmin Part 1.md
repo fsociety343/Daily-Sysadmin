@@ -8,7 +8,7 @@ find / -type f -exec du -h {} + 2>/dev/null | sort -rh | head -n 10
 
 ** untuk command ini akan menscann seluruh folder dan mencari file dengan kapasitas tertinggi
 
-![image.png](Daily%20Sysadmin%201ff217acfeb9809da30dccf1c32557a1/image.png)
+![image.png](/images/image.png)
 
 ```bash
 find . -type f -exec du -h {} + | sort -rh | head -n 10
@@ -16,7 +16,7 @@ find . -type f -exec du -h {} + | sort -rh | head -n 10
 
 ** kalau untuk command ini di eksekusi didalam folder tertentu
 
-![image.png](Daily%20Sysadmin%201ff217acfeb9809da30dccf1c32557a1/image%201.png)
+![image.png](/images/image%201.png)
 
 ## Cek Scan Backup All Time dengan Script bash
 
